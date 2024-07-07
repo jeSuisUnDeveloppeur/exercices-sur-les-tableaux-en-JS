@@ -1,0 +1,29 @@
+h1{
+    color:blueviolet;
+    text-shadow: 5px 5px 5px red;
+    background-color: rgba(245, 245, 237, 0.959);
+    width:65%;
+    text-align: center;
+}
+
+body > main > div > label{
+    color:blueviolet;
+    background-color: antiquewhite;
+    width: 25%!important;
+}
+
+body > main > div > button{
+    height: 2.5rem;
+}
+
+.styleInput{
+    margin-left: 2%!important;
+    margin-top:5%!important;
+    width: 2rem!important;
+}
+
+.inputStyle{
+    border-radius: 1em;
+    width:5%!important;
+    text-align: center;
+}
